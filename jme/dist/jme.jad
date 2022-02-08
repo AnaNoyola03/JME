@@ -2,7 +2,9 @@ MIDlet-1: HolaMidlet, , HolaMidlet.HolaMidlet
 MIDlet-2: VisualMIDlet, , HolaMidlet.VisualMIDlet
 MIDlet-3: LifeCycleMidlet, , lifeCycle.LifeCycleMidlet
 MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
-MIDlet-Jar-Size: 5023
+MIDlet-5: FormTextMidlet, , formtextfield.FormTextMidlet
+MIDlet-6: GuessNumberMidlet, , guessnumbergame.GuessNumberMidlet
+MIDlet-Jar-Size: 8844
 MIDlet-Jar-URL: jme.jar
 MIDlet-Name: jme
 MIDlet-Vendor: Vendor

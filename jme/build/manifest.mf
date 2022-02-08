@@ -1,6 +1,8 @@
+MIDlet-6: GuessNumberMidlet, , guessnumbergame.GuessNumberMidlet
 MIDlet-2: VisualMIDlet, , HolaMidlet.VisualMIDlet
 MIDlet-3: LifeCycleMidlet, , lifeCycle.LifeCycleMidlet
 MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
+MIDlet-5: FormTextMidlet, , formtextfield.FormTextMidlet
 MIDlet-1: HolaMidlet, , HolaMidlet.HolaMidlet
 MIDlet-Vendor: Vendor
 MIDlet-Version: 1.0
