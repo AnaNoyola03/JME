@@ -1,0 +1,9 @@
+MIDlet-2: VisualMIDlet, , HolaMidlet.VisualMIDlet
+MIDlet-3: LifeCycleMidlet, , lifeCycle.LifeCycleMidlet
+MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
+MIDlet-1: HolaMidlet, , HolaMidlet.HolaMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: jme
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
