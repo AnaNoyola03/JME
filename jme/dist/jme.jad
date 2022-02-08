@@ -4,7 +4,7 @@ MIDlet-3: LifeCycleMidlet, , lifeCycle.LifeCycleMidlet
 MIDlet-4: TextBoxMidlet, , highlvui.TextBoxMidlet
 MIDlet-5: FormTextMidlet, , formtextfield.FormTextMidlet
 MIDlet-6: GuessNumberMidlet, , guessnumbergame.GuessNumberMidlet
-MIDlet-Jar-Size: 8844
+MIDlet-Jar-Size: 8879
 MIDlet-Jar-URL: jme.jar
 MIDlet-Name: jme
 MIDlet-Vendor: Vendor

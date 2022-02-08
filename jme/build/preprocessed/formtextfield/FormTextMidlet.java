@@ -69,8 +69,16 @@ public class FormTextMidlet extends MIDlet
             if(oper.equalsIgnoreCase("M")){
                 result= num1 * num2;
             }
+            if(oper.equalsIgnoreCase("D")){
+                result = num1 / num2;
+            }
+            if(oper.equalsIgnoreCase("R")){
+                result = num1 - num2;
+            }
             tfResultado.setString(result +"");
         }
+            
+            
         if(c == cmdExit){
             destroyApp(true);
             notifyDestroyed();
